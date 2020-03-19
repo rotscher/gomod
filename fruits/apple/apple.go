@@ -1,5 +1,5 @@
 package apple
 
-func name() string {
+func Name() string {
 	return "apple"
 }

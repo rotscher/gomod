@@ -1,5 +1,5 @@
 package eating
 
-func list() []string {
+func List() []string {
 	return []string{"apple", "banana"}
 }
