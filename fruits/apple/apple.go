@@ -7,3 +7,7 @@ func Name() string {
 func Color() string {
 	return "green"
 }
+
+func Size() int {
+	return 5
+}
