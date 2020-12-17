@@ -1,5 +1,5 @@
 package banana
 
 func Name() string {
-	return "banana banana"
+	return "banana banana v2"
 }
